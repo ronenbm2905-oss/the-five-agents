@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "b3f69a3c9b6b6d24",
+    "type": "split",
+    "children": [
+      {
+        "id": "a60927d10bcc03fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4314ac3bdd4252ed",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "תצוגת גרף"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65631f30b8360b9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e53bc7179e24073",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd1edeecd257dccd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "סייר קבצים"
+            }
+          },
+          {
+            "id": "1fafa80ca515d4ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "לחפש"
+            }
+          },
+          {
+            "id": "26ff392af672be5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "סימניות"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b644d00487223cc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "4dd5ddb4fd41fd80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2278c4cf6db35d90",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "קישורים נכנסים"
+            }
+          },
+          {
+            "id": "16db3e42de8ede47",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "קישורים יוצאים"
+            }
+          },
+          {
+            "id": "5153254807c93298",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "תגים"
+            }
+          },
+          {
+            "id": "4694d8dba0e46688",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "כל המאפיינים"
+            }
+          },
+          {
+            "id": "54ab803a453c39cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "מתווה"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:פתח את המחליף המהיר": false,
+      "graph:פתח תצוגת גרף": false,
+      "canvas:צור קנבס חדש": false,
+      "daily-notes:פתח את ההערה של היום": false,
+      "templates:הכנס תבנית": false,
+      "command-palette:פתח את לוח הפקודות": false,
+      "bases:צור בסיס חדש": false
+    }
+  },
+  "active": "4314ac3bdd4252ed",
+  "lastOpenFiles": [
+    "Output/~$26-07-07-wembanyama-mvp-2025-26.docx",
+    "Output/2026-07-07-wembanyama-mvp-2025-26.docx",
+    "response.json",
+    "yuval/Outputs/2026-07-07-basketball-mvp-cover.png",
+    "yuval/Outputs/2026-07-07-wembanyama-mvp-infographic.png",
+    "yuval/Outputs/2026-07-07-wembanyama-mvp-infographic.txt",
+    "yuval/Outputs/2026-07-07-basketball-mvp-cover.txt",
+    "Output/2026-07-07-wembanyama-mvp-2025-26.html",
+    "Output/2026-07-07-wembanyama-mvp-2025-26.md",
+    "Content/2026-07-07-wembanyama-mvp-2025-26.md",
+    "vault/Meeting Notes/project-documentation-vault.md",
+    "vault/Brand Guidelines/_index.md",
+    "vault/Brand Guidelines",
+    "vault/Publishing Log/_index.md",
+    "vault/Publishing Log",
+    "vault/Content Briefs/_index.md",
+    "vault/Content Briefs",
+    "vault/Meeting Notes/_index.md",
+    "vault/Meeting Notes",
+    "vault/File Docs/yuval-image-horse.md",
+    "vault/File Docs/yuval-outputs-readme.md",
+    "vault/File Docs/yuval-reference-readme.md",
+    "vault/File Docs/yael-reference-readme.md",
+    "vault/File Docs/yael-style-guide.md",
+    "vault/File Docs/chen-memory-searches.md",
+    "vault/File Docs/output-crm-sample.md",
+    "vault/File Docs/output-zone-defense.md",
+    "vault/File Docs/output-readme.md",
+    "vault/File Docs/content-crm-sample.md",
+    "vault/File Docs/content-zone-defense-raw.md",
+    "vault/File Docs/content-zone-defense-raw.md.tmp.16368.675ffb6e03f9",
+    "vault/File Docs/content-readme.md",
+    "vault/File Docs/config-obsidian.md",
+    "vault/File Docs/config-gitignore.md",
+    "vault/File Docs/config-env.md",
+    "vault/File Docs/config-env-example.md",
+    "vault/File Docs/skill-obsidian-vault-workflow.md",
+    "vault/File Docs/skill-obsidian-markdown.md"
+  ]
+}
