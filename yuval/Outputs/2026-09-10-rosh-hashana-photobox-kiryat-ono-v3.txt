@@ -1,0 +1,15 @@
+CORRECT A TYPO IN THE PRINTED TEXT.
+
+The reference image shows a hand holding a photobooth strip. On the white margin below the four photos there is a line of blue Hebrew text. That line is WRONG and must be corrected.
+
+Wrong text currently printed there:
+שנה טובה ומתוקה
+
+Correct text that must replace it:
+שנה טובה תשפ״ז
+
+Print the corrected line in the same blue color, same font, same size, same centered position. The corrected line has three words, right-to-left: שנה, then טובה, then תשפ״ז. The third word is five characters: tav, shin, pe, gershayim, zayin. Delete the word ומתוקה completely - it must not remain anywhere on the strip.
+
+This typo correction is the purpose of this edit. Do not skip it. Do not return the image unchanged.
+
+Everything else on the strip stays exactly as in the reference: the man's face and expressions in all four photos, his blue PEAK polo, the apple, the pomegranate, the wine glass, the V-sign, the "R.B.M" line, the Kiryat Ono basketball emblem below it, the hand, and the blurred bokeh background.

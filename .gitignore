@@ -27,3 +27,12 @@ Thumbs.db
 .vscode/
 .idea/
 *.swp
+
+# --- נתונים פיננסיים אמיתיים של לקוח (הריפו ציבורי) ---
+# צילומי המסך הגולמיים והאיור שנוצר מהם מכילים שם לקוח אמיתי ומספרי מחזור/רווח.
+# הגרסאות עם נתוני הדמו (amr-app-screen-demo.png, amr-art-v3, amr-post-*) כן נשמרות.
+yuval/reference/1.jpeg
+yuval/reference/2.jpeg
+yuval/reference/amr-app-screen.png
+yuval/Outputs/2026-09-10-amr-excel-to-system.png
+yael/reference/aMR/

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a60927d10bcc03fd",
+        "id": "e4683f63a6792645",
         "type": "tabs",
         "children": [
           {
-            "id": "4314ac3bdd4252ed",
+            "id": "9f82a600a2b0c5b2",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "תצוגת גרף"
+              "icon": "lucide-file",
+              "title": "כרטיסייה חדשה"
             }
           }
         ]
@@ -37,7 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "סייר קבצים"
@@ -70,7 +70,8 @@
               "title": "סימניות"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,7 +159,8 @@
               "title": "מתווה"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -176,8 +178,17 @@
       "bases:צור בסיס חדש": false
     }
   },
-  "active": "4314ac3bdd4252ed",
+  "active": "9f82a600a2b0c5b2",
   "lastOpenFiles": [
+    "ללא כותרת 1.canvas",
+    "ללא כותרת 1.base",
+    "ללא כותרת 1.md",
+    "ללא כותרת.md",
+    "ללא כותרת 1",
+    "ללא כותרת.base",
+    "ללא כותרת.canvas",
+    "CLAUDE.md",
+    "ללא כותרת",
     "Output/~$26-07-07-wembanyama-mvp-2025-26.docx",
     "Output/2026-07-07-wembanyama-mvp-2025-26.docx",
     "response.json",
@@ -190,13 +201,9 @@
     "Content/2026-07-07-wembanyama-mvp-2025-26.md",
     "vault/Meeting Notes/project-documentation-vault.md",
     "vault/Brand Guidelines/_index.md",
-    "vault/Brand Guidelines",
     "vault/Publishing Log/_index.md",
-    "vault/Publishing Log",
     "vault/Content Briefs/_index.md",
-    "vault/Content Briefs",
     "vault/Meeting Notes/_index.md",
-    "vault/Meeting Notes",
     "vault/File Docs/yuval-image-horse.md",
     "vault/File Docs/yuval-outputs-readme.md",
     "vault/File Docs/yuval-reference-readme.md",
@@ -208,13 +215,9 @@
     "vault/File Docs/output-readme.md",
     "vault/File Docs/content-crm-sample.md",
     "vault/File Docs/content-zone-defense-raw.md",
-    "vault/File Docs/content-zone-defense-raw.md.tmp.16368.675ffb6e03f9",
     "vault/File Docs/content-readme.md",
     "vault/File Docs/config-obsidian.md",
     "vault/File Docs/config-gitignore.md",
-    "vault/File Docs/config-env.md",
-    "vault/File Docs/config-env-example.md",
-    "vault/File Docs/skill-obsidian-vault-workflow.md",
-    "vault/File Docs/skill-obsidian-markdown.md"
+    "vault/File Docs/config-env.md"
   ]
 }

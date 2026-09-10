@@ -1,0 +1,26 @@
+Take the provided reference image - a photograph of a hand holding a printed photobooth strip - and reproduce it EXACTLY as it is, pixel for pixel, with ONE single change described below.
+
+KEEP IDENTICAL, DO NOT ALTER IN ANY WAY:
+- The man's face, glasses, beard, hair and expression in all four photos - identical to the reference, same identity, same angles, same smiles.
+- All four photo frames and their contents: the honey-dipped apple, the opened pomegranate, the glass of red wine, the peace V-sign.
+- His royal blue t-shirt.
+- The hand holding the strip, its skin, fingers and position.
+- The blurred warm background with bokeh lights.
+- The line "R.B.M" - keep it exactly where it is, same font, same size.
+- The cyan/teal company logo lockup at the bottom - the building icon and the two lines of Hebrew lettering - keep it pixel-identical, same position, same size, same color, same spelling.
+- The strip's proportions, white borders, glossy paper look and overall composition.
+
+THE ONE AND ONLY CHANGE - THE HEBREW GREETING LINE:
+The top line of Hebrew text on the bottom white margin currently reads:
+שנה טובה ומתוקה
+Replace that line with this text, keeping the same font style, same size, same weight, same centered position:
+שנה טובה תשפ״ז
+
+The replacement line contains exactly three words, written right-to-left:
+1. The word שנה
+2. The word טובה
+3. The word תשפ״ז - five characters in this order: tav, shin, pe, a gershayim double-quote mark, zayin.
+
+CRITICAL: The word ומתוקה must NOT appear anywhere in the image. Do not write ומתוקה. Do not write שנה טובה ומתוקה. The third word is תשפ״ז and nothing else. Do not add a fourth word. Do not translate it. Do not substitute a more common Hebrew new-year phrase. Copy the characters exactly as given.
+
+Everything else in the image stays exactly as it is in the reference.

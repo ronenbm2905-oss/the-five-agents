@@ -1,0 +1,15 @@
+A flat vector logo artwork for a Hebrew software brand, presented centered on a plain solid background, the lockup filling about sixty percent of the frame width with generous clear space around it.
+
+HEBREW TEXT (STRICT)
+The main wordmark reads exactly, letter for letter, right-to-left: א.מ.ר
+Below the wordmark, in much smaller type, a tagline reads exactly, letter for letter, right-to-left: אמינות · מעקב · רוגע
+Render these Hebrew letters EXACTLY as given above. Do not translate them. Do not substitute different Hebrew letters. Every glyph in the image must come from these two strings and nothing else.
+
+LETTERFORMS
+The three Hebrew letters of the wordmark are light in weight and widely letter-spaced, elegant and airy, drawn with thin uniform strokes of even thickness. A single thin horizontal rule sits directly beneath the wordmark, spanning its full width, and the small tagline sits below that rule.
+
+COLOR
+The three main letters and the separating dots are deep navy blue, hex 0E2A55. The thin horizontal rule beneath the wordmark is bright sky blue, hex 3B9DF5. The small tagline underneath is the same deep navy at fifty percent opacity. The background is a very pale cool off-white, hex F5F8FC.
+
+STYLE
+Modern flat vector identity design in the style of a clean contemporary SaaS company. Crisp hard edges, high contrast, perfectly balanced optical spacing, sharp and print-ready. Everything sits on a single flat plane with even lighting.

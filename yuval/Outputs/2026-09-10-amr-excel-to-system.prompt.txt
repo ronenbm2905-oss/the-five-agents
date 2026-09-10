@@ -1,0 +1,20 @@
+A square advertising illustration for a Hebrew business software brand, flat vector style, on a very pale cool background.
+
+COMPOSITION
+The lower two thirds of the frame is dominated by the FIRST reference image, displayed inside a clean modern browser window frame with rounded corners, a subtle top bar with three small dots, and a soft drop shadow. This window sits upright, large, crisp and fully legible, and it is the clear hero of the composition. The upper left area holds a much smaller spreadsheet grid tilted away in perspective, sitting behind and lower in the visual hierarchy. A wide sweeping ribbon made of small square tiles flows diagonally from the spreadsheet down toward the browser window; the tiles begin dull grey-green and turn bright sky blue as they travel, giving a clear sense of direction and upgrade.
+
+SCREEN REFERENCE (FIRST image)
+The FIRST reference image is a real product screenshot. Reproduce it exactly as supplied inside the browser frame: identical layout, identical Hebrew labels, identical numbers, identical colours, identical cards and table. Keep it sharp and readable. Do not redraw it, do not translate it, do not restyle it, do not recolour it, and do not invent extra fields, charts or rows.
+
+LOGO REFERENCE (SECOND image)
+The SECOND reference image is a finished logo lockup. Place it exactly once, small, in the lower left corner of the frame, exactly as supplied. Do not redraw, restyle, translate, recolour or invent the lockup, and do not place it anywhere else.
+
+THE SPREADSHEET IN THE UPPER LEFT
+Dense and cramped, packed with tiny rows in a desaturated grey-green, hex 7C8B72. One row is lifting out of the grid and breaking apart into loose scattered fragments. The whole object is low saturation, low contrast and slightly faded, so it reads as the past.
+
+HEADLINE TEXT (STRICT)
+Across the top of the frame, on a single line, large bold Hebrew text reads exactly, letter for letter, right-to-left: מהאקסל למערכת
+Render these Hebrew letters exactly as given. Do not translate them, do not substitute different Hebrew letters, and do not add any other words, letters or captions anywhere in the image.
+
+STYLE AND PALETTE
+Modern flat vector illustration in the style of a clean contemporary SaaS marketing post. Deep navy hex 0E2A55 for the headline, bright sky blue hex 3B9DF5 as the single accent colour, background hex F5F8FC. Soft long shadows, generous breathing space, even lighting, crisp edges, print-ready.
